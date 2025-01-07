@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "blog-makeup",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "../../Blog-MAKE_UP/img"
+		}
+	],
+	"settings": {}
+}
