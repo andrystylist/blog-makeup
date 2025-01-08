@@ -2937,7 +2937,7 @@ h6,
 	display: block;
 	font-family: "Tenor Sans";
 	color: #222222;
-	font-size: 100px;
+	font-size: 90px;
 	margin-bottom: 30px;
 	margin-top: 4px;
 }
@@ -2970,7 +2970,7 @@ h6,
 .main-block {
 	padding-top: 340px;
 	padding-bottom: 237px;
-	background-image: url(https://via.placeholder.com/1920x910);
+	background-image: url(/img/placeholder.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
